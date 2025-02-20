@@ -1,0 +1,161 @@
+[
+  {
+    "id": "10322b3c-1234-4c56-a212-aa894e75a9f4",
+    "name": "Oriental Metal Soap",
+    "imageUrl": "https://picsum.photos/400/400?random=295",
+    "price": "2975",
+    "description": "Savor the fresh essence in our Shoes, designed for trusting culinary adventures",
+    "category": "Accessories",
+    "sizes": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": "00dc020f-bde3-4023-9ff0-69d6b28229ab",
+    "name": "Luxurious Cotton Ball",
+    "imageUrl": "https://picsum.photos/400/400?random=749",
+    "price": "2269",
+    "description": "Innovative Cheese featuring elegant technology and Steel construction",
+    "category": "Bag",
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "fea8876d-264d-4279-baac-53e30d7a714c",
+    "name": "Handcrafted Concrete Tuna",
+    "imageUrl": "https://picsum.photos/400/400?random=161",
+    "price": "3432",
+    "description": "New Shoes model with 34 GB RAM, 911 GB storage, and critical features",
+    "category": "Gloves",
+    "sizes": [
+      "M",
+      "Standard"
+    ]
+  },
+  {
+    "id": "1bf46172-8e3b-48a4-967b-631a92ff30b8",
+    "name": "Tasty Ceramic Cheese",
+    "imageUrl": "https://picsum.photos/400/400?random=294",
+    "price": "1334",
+    "description": "Savor the fluffy essence in our Towels, designed for clean culinary adventures",
+    "category": "Helmet",
+    "sizes": [
+      "XL",
+      "S",
+      "Standard"
+    ]
+  },
+  {
+    "id": "a6baa7e8-f064-4bc2-9227-1de1f9c608bd",
+    "name": "Intelligent Gold Hat",
+    "imageUrl": "https://picsum.photos/400/400?random=399",
+    "price": "3501",
+    "description": "Parker - Johnston's most advanced Chair technology increases shady capabilities",
+    "category": "Bat",
+    "sizes": [
+      "L"
+    ]
+  },
+  {
+    "id": "53fb3785-b7bf-4bf5-b555-ad8d82497ef1",
+    "name": "Soft Granite Mouse",
+    "imageUrl": "https://picsum.photos/400/400?random=183",
+    "price": "3385",
+    "description": "Gorgeous Chair designed with Gold for willing performance",
+    "category": "Jersey",
+    "sizes": [
+      "S",
+      "Standard",
+      "XL",
+      "L",
+      "M"
+    ]
+  },
+  {
+    "id": "ab292174-76ae-45c7-b1ea-3e58d6373ec1",
+    "name": "Elegant Steel Shoes",
+    "imageUrl": "https://picsum.photos/400/400?random=823",
+    "price": "4957",
+    "description": "Savor the salty essence in our Mouse, designed for unripe culinary adventures",
+    "category": "Accessories",
+    "sizes": [
+      "L",
+      "Standard",
+      "XL",
+      "M"
+    ]
+  },
+  {
+    "id": "b2257528-f3f4-4732-877b-18fe82f2ae59",
+    "name": "Fresh Granite Hat",
+    "imageUrl": "https://picsum.photos/400/400?random=709",
+    "price": "3532",
+    "description": "The Abe Chips is the latest in a series of fixed products from Grimes, Lakin and McLaughlin",
+    "category": "Gloves",
+    "sizes": [
+      "M",
+      "S",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "8dc69090-edc7-4620-b1c6-cead9737c73b",
+    "name": "Incredible Plastic Ball",
+    "imageUrl": "https://picsum.photos/400/400?random=656",
+    "price": "4108",
+    "description": "Electronic Salad designed with Silk for impartial performance",
+    "category": "Bat",
+    "sizes": [
+      "XL",
+      "Standard",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "699a141c-45b8-4d1f-ad3e-bccedea081b8",
+    "name": "Gorgeous Rubber Hat",
+    "imageUrl": "https://picsum.photos/400/400?random=546",
+    "price": "1792",
+    "description": "Graham - Boyle's most advanced Hat technology increases beneficial capabilities",
+    "category": "Bag",
+    "sizes": [
+      "S",
+      "XL",
+      "M",
+      "L",
+      "Standard"
+    ]
+  },
+  {
+    "id": "a5002ee3-592c-4ede-a930-3bc4e633eb6c",
+    "name": "Modern Silk Pants",
+    "imageUrl": "https://picsum.photos/400/400?random=245",
+    "price": "4150",
+    "description": "New grey Bacon with ergonomic design for grown comfort",
+    "category": "Gloves",
+    "sizes": [
+      "S",
+      "Standard"
+    ]
+  },
+  {
+    "id": "19f02a17-9b23-4fec-a3aa-f48c3265b49c",
+    "name": "Practical Cotton Chicken",
+    "imageUrl": "https://picsum.photos/400/400?random=749",
+    "price": "2311",
+    "description": "New lime Chair with ergonomic design for huge comfort",
+    "category": "Bag",
+    "sizes": [
+      "M",
+      "L",
+      "S"
+    ]
+  }
+]

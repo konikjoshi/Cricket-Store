@@ -1,161 +1,159 @@
 [
   {
-    "id": "10322b3c-1234-4c56-a212-aa894e75a9f4",
-    "name": "Oriental Metal Soap",
-    "imageUrl": "https://picsum.photos/400/400?random=295",
-    "price": "2975",
-    "description": "Savor the fresh essence in our Shoes, designed for trusting culinary adventures",
-    "category": "Accessories",
-    "sizes": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": "00dc020f-bde3-4023-9ff0-69d6b28229ab",
-    "name": "Luxurious Cotton Ball",
-    "imageUrl": "https://picsum.photos/400/400?random=749",
-    "price": "2269",
-    "description": "Innovative Cheese featuring elegant technology and Steel construction",
-    "category": "Bag",
-    "sizes": [
-      "S"
-    ]
-  },
-  {
-    "id": "fea8876d-264d-4279-baac-53e30d7a714c",
-    "name": "Handcrafted Concrete Tuna",
-    "imageUrl": "https://picsum.photos/400/400?random=161",
-    "price": "3432",
-    "description": "New Shoes model with 34 GB RAM, 911 GB storage, and critical features",
-    "category": "Gloves",
-    "sizes": [
-      "M",
-      "Standard"
-    ]
-  },
-  {
-    "id": "1bf46172-8e3b-48a4-967b-631a92ff30b8",
-    "name": "Tasty Ceramic Cheese",
-    "imageUrl": "https://picsum.photos/400/400?random=294",
-    "price": "1334",
-    "description": "Savor the fluffy essence in our Towels, designed for clean culinary adventures",
+    "id": "acd44d83-a124-4aa4-8d7e-6340af5c7ac2",
+    "name": "Intelligent Cotton Towels",
+    "imageUrl": "https://picsum.photos/400/400?random=220",
+    "price": "1738",
+    "description": "Introducing the Iraq-inspired Car, blending sentimental style with local craftsmanship",
     "category": "Helmet",
     "sizes": [
-      "XL",
-      "S",
-      "Standard"
-    ]
-  },
-  {
-    "id": "a6baa7e8-f064-4bc2-9227-1de1f9c608bd",
-    "name": "Intelligent Gold Hat",
-    "imageUrl": "https://picsum.photos/400/400?random=399",
-    "price": "3501",
-    "description": "Parker - Johnston's most advanced Chair technology increases shady capabilities",
-    "category": "Bat",
-    "sizes": [
-      "L"
-    ]
-  },
-  {
-    "id": "53fb3785-b7bf-4bf5-b555-ad8d82497ef1",
-    "name": "Soft Granite Mouse",
-    "imageUrl": "https://picsum.photos/400/400?random=183",
-    "price": "3385",
-    "description": "Gorgeous Chair designed with Gold for willing performance",
-    "category": "Jersey",
-    "sizes": [
-      "S",
-      "Standard",
-      "XL",
       "L",
       "M"
     ]
   },
   {
-    "id": "ab292174-76ae-45c7-b1ea-3e58d6373ec1",
-    "name": "Elegant Steel Shoes",
-    "imageUrl": "https://picsum.photos/400/400?random=823",
-    "price": "4957",
-    "description": "Savor the salty essence in our Mouse, designed for unripe culinary adventures",
-    "category": "Accessories",
+    "id": "f7438e3b-9967-4ccd-be73-a7566ff10dca",
+    "name": "Luxurious Marble Soap",
+    "imageUrl": "https://picsum.photos/400/400?random=579",
+    "price": "2950",
+    "description": "Discover the critical new Shirt with an exciting mix of Aluminum ingredients",
+    "category": "Pads",
     "sizes": [
       "L",
-      "Standard",
       "XL",
-      "M"
+      "Standard",
+      "S"
     ]
   },
   {
-    "id": "b2257528-f3f4-4732-877b-18fe82f2ae59",
-    "name": "Fresh Granite Hat",
-    "imageUrl": "https://picsum.photos/400/400?random=709",
-    "price": "3532",
-    "description": "The Abe Chips is the latest in a series of fixed products from Grimes, Lakin and McLaughlin",
-    "category": "Gloves",
+    "id": "693c5d3c-9828-4db0-9934-3885a11ef7d9",
+    "name": "Practical Gold Bike",
+    "imageUrl": "https://picsum.photos/400/400?random=215",
+    "price": "2995",
+    "description": "Featuring Tennessine-enhanced technology, our Pants offers unparalleled skeletal performance",
+    "category": "Pads",
     "sizes": [
-      "M",
-      "S",
+      "Standard",
       "L",
+      "S",
       "XL"
     ]
   },
   {
-    "id": "8dc69090-edc7-4620-b1c6-cead9737c73b",
-    "name": "Incredible Plastic Ball",
-    "imageUrl": "https://picsum.photos/400/400?random=656",
-    "price": "4108",
-    "description": "Electronic Salad designed with Silk for impartial performance",
-    "category": "Bat",
+    "id": "e7550939-ec1d-41cc-89ba-96144e84dfc0",
+    "name": "Frozen Marble Tuna",
+    "imageUrl": "https://picsum.photos/400/400?random=918",
+    "price": "1228",
+    "description": "Luxurious Chips designed with Gold for simplistic performance",
+    "category": "Accessories",
     "sizes": [
-      "XL",
-      "Standard",
-      "S",
-      "M",
       "L"
     ]
   },
   {
-    "id": "699a141c-45b8-4d1f-ad3e-bccedea081b8",
-    "name": "Gorgeous Rubber Hat",
-    "imageUrl": "https://picsum.photos/400/400?random=546",
-    "price": "1792",
-    "description": "Graham - Boyle's most advanced Hat technology increases beneficial capabilities",
-    "category": "Bag",
+    "id": "86507701-54f0-414f-9496-0e5700841431",
+    "name": "Refined Metal Car",
+    "imageUrl": "https://picsum.photos/400/400?random=725",
+    "price": "3779",
+    "description": "Innovative Chair featuring bright technology and Aluminum construction",
+    "category": "Ball",
+    "sizes": [
+      "Standard",
+      "S",
+      "XL"
+    ]
+  },
+  {
+    "id": "78363ef4-4f53-4d48-80c6-6e78a100aeae",
+    "name": "Gorgeous Plastic Ball",
+    "imageUrl": "https://picsum.photos/400/400?random=434",
+    "price": "2508",
+    "description": "Featuring Francium-enhanced technology, our Pants offers unparalleled gaseous performance",
+    "category": "Guard",
     "sizes": [
       "S",
+      "Standard",
       "XL",
-      "M",
-      "L",
-      "Standard"
+      "M"
     ]
   },
   {
-    "id": "a5002ee3-592c-4ede-a930-3bc4e633eb6c",
-    "name": "Modern Silk Pants",
-    "imageUrl": "https://picsum.photos/400/400?random=245",
-    "price": "4150",
-    "description": "New grey Bacon with ergonomic design for grown comfort",
-    "category": "Gloves",
+    "id": "c140aac5-df24-4bdf-a23c-8780c1bd8cf9",
+    "name": "Soft Concrete Mouse",
+    "imageUrl": "https://picsum.photos/400/400?random=690",
+    "price": "1183",
+    "description": "Experience the sky blue brilliance of our Soap, perfect for well-documented environments",
+    "category": "Guard",
+    "sizes": [
+      "XL",
+      "Standard",
+      "L"
+    ]
+  },
+  {
+    "id": "806b6e18-8f62-4764-9af2-384a7e128be8",
+    "name": "Ergonomic Rubber Car",
+    "imageUrl": "https://picsum.photos/400/400?random=845",
+    "price": "1357",
+    "description": "Introducing the Saint Helena-inspired Mouse, blending awesome style with local craftsmanship",
+    "category": "Guard",
+    "sizes": [
+      "XL",
+      "S"
+    ]
+  },
+  {
+    "id": "bf9e5b47-5e5d-4c43-b9ba-9a013c8925b9",
+    "name": "Luxurious Bamboo Pants",
+    "imageUrl": "https://picsum.photos/400/400?random=52",
+    "price": "3251",
+    "description": "Experience the green brilliance of our Hat, perfect for lonely environments",
+    "category": "Jersey",
+    "sizes": [
+      "L",
+      "Standard",
+      "S"
+    ]
+  },
+  {
+    "id": "f6c949ac-53b8-4507-b286-dc0571ab10a4",
+    "name": "Incredible Gold Sausages",
+    "imageUrl": "https://picsum.photos/400/400?random=828",
+    "price": "934",
+    "description": "Innovative Keyboard featuring mixed technology and Cotton construction",
+    "category": "Bag",
+    "sizes": [
+      "XL",
+      "Standard",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": "affd0e05-da94-4a66-aef2-91adccaf457b",
+    "name": "Practical Steel Gloves",
+    "imageUrl": "https://picsum.photos/400/400?random=528",
+    "price": "1501",
+    "description": "Discover the panda-like agility of our Hat, perfect for plain users",
+    "category": "Accessories",
     "sizes": [
       "S",
       "Standard"
     ]
   },
   {
-    "id": "19f02a17-9b23-4fec-a3aa-f48c3265b49c",
-    "name": "Practical Cotton Chicken",
-    "imageUrl": "https://picsum.photos/400/400?random=749",
-    "price": "2311",
-    "description": "New lime Chair with ergonomic design for huge comfort",
+    "id": "523559ee-2b79-428f-aa85-7dbdddab3ccc",
+    "name": "Fresh Gold Ball",
+    "imageUrl": "https://picsum.photos/400/400?random=517",
+    "price": "2871",
+    "description": "Experience the orange brilliance of our Chicken, perfect for impeccable environments",
     "category": "Bag",
     "sizes": [
-      "M",
+      "Standard",
       "L",
-      "S"
+      "S",
+      "M"
     ]
   }
 ]
